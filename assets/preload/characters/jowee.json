@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				400,
+				160
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": false,
+			"name": "jowee idle"
+		},
+		{
+			"offsets": [
+				400,
+				158
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "jowee right"
+		},
+		{
+			"offsets": [
+				399,
+				157
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "jowee left"
+		},
+		{
+			"offsets": [
+				395,
+				156
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singUP",
+			"loop": false,
+			"name": "jowee up"
+		},
+		{
+			"offsets": [
+				387,
+				157
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "jowee down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jowee",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jowee",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		160,
+		40
+	],
+	"camera_position": [
+		90,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

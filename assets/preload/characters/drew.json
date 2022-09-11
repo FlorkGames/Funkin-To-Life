@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-179,
+				-204
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Drew Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-172,
+				-157
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Drew Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-167,
+				-231
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Drew Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-140,
+				-111
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Drew Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-131,
+				-107
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Drew Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Drew",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Drew",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		80
+	],
+	"camera_position": [
+		220,
+		90
+	],
+	"sing_duration": 6,
+	"scale": 1
+}
