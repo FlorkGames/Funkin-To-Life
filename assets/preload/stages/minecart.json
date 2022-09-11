@@ -1,0 +1,9 @@
+{
+	"directory": "minecart",
+	"defaultZoom": 0.4,
+	"isPixelStage": false,
+
+	"boyfriend": [1520, 50],
+	"girlfriend": [380, 200],
+	"opponent": [700, 270]
+}

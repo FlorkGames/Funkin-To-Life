@@ -1,0 +1,9 @@
+{
+	"directory": "newgame",
+	"defaultZoom": 0.5,
+	"isPixelStage": false,
+
+	"boyfriend": [1820, 1000],
+	"girlfriend": [380, 200],
+	"opponent": [800, 1000]
+}

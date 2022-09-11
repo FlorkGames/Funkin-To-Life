@@ -1,0 +1,9 @@
+{
+	"directory": "goodjob",
+	"defaultZoom": 0.5,
+	"isPixelStage": false,
+
+	"boyfriend": [1100, 650],
+	"girlfriend": [500, 650],
+	"opponent": [300, 650]
+}
