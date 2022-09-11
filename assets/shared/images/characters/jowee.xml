@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jowee.png"><SubTexture name="jowee idle0000" x="0" y="0" width="1204" height="1284" frameX="0" frameY="0" frameWidth="1204" frameHeight="1284" />
+<SubTexture name="jowee idle0001" x="1204" y="0" width="1204" height="1284" frameX="0" frameY="0" frameWidth="1204" frameHeight="1284" />
+<SubTexture name="jowee idle0002" x="2408" y="0" width="1204" height="1284" frameX="0" frameY="0" frameWidth="1204" frameHeight="1284" />
+<SubTexture name="jowee idle0003" x="3612" y="0" width="1204" height="1284" frameX="0" frameY="0" frameWidth="1204" frameHeight="1284" />
+<SubTexture name="jowee idle0004" x="0" y="1284" width="1204" height="1284" frameX="0" frameY="0" frameWidth="1204" frameHeight="1284" />
+<SubTexture name="jowee idle0005" x="1204" y="1284" width="1204" height="1284" frameX="0" frameY="0" frameWidth="1204" frameHeight="1284" />
+<SubTexture name="jowee left0000" x="2408" y="1284" width="1204" height="1284" frameX="0" frameY="0" frameWidth="1204" frameHeight="1284" />
+<SubTexture name="jowee left0001" x="3612" y="1284" width="1204" height="1284" frameX="0" frameY="0" frameWidth="1204" frameHeight="1284" />
+<SubTexture name="jowee left0002" x="0" y="2568" width="1204" height="1284" frameX="0" frameY="0" frameWidth="1204" frameHeight="1284" />
+<SubTexture name="jowee left0003" x="1204" y="2568" width="1204" height="1284" frameX="0" frameY="0" frameWidth="1204" frameHeight="1284" />
+<SubTexture name="jowee down0000" x="2408" y="2568" width="1204" height="1284" frameX="0" frameY="0" frameWidth="1204" frameHeight="1284" />
+<SubTexture name="jowee down0001" x="3612" y="2568" width="1204" height="1284" frameX="0" frameY="0" frameWidth="1204" frameHeight="1284" />
+<SubTexture name="jowee down0002" x="0" y="3852" width="1204" height="1284" frameX="0" frameY="0" frameWidth="1204" frameHeight="1284" />
+<SubTexture name="jowee down0003" x="1204" y="3852" width="1204" height="1284" frameX="0" frameY="0" frameWidth="1204" frameHeight="1284" />
+<SubTexture name="jowee up0000" x="2408" y="3852" width="1204" height="1284" frameX="0" frameY="0" frameWidth="1204" frameHeight="1284" />
+<SubTexture name="jowee up0001" x="3612" y="3852" width="1204" height="1284" frameX="0" frameY="0" frameWidth="1204" frameHeight="1284" />
+<SubTexture name="jowee up0002" x="0" y="5136" width="1204" height="1284" frameX="0" frameY="0" frameWidth="1204" frameHeight="1284" />
+<SubTexture name="jowee up0003" x="1204" y="5136" width="1204" height="1284" frameX="0" frameY="0" frameWidth="1204" frameHeight="1284" />
+<SubTexture name="jowee right0000" x="2408" y="5136" width="1204" height="1284" frameX="0" frameY="0" frameWidth="1204" frameHeight="1284" />
+<SubTexture name="jowee right0001" x="3612" y="5136" width="1204" height="1284" frameX="0" frameY="0" frameWidth="1204" frameHeight="1284" />
+<SubTexture name="jowee right0002" x="0" y="6420" width="1204" height="1284" frameX="0" frameY="0" frameWidth="1204" frameHeight="1284" />
+<SubTexture name="jowee right0003" x="1204" y="6420" width="1204" height="1284" frameX="0" frameY="0" frameWidth="1204" frameHeight="1284" />
+</TextureAtlas>
